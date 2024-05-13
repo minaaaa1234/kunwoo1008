@@ -1,8 +1,6 @@
-﻿<!DOCTYPE html>
-<html lang="ko">
+
 	<head>
 		<title> 건우야아아앙  </title>
-		<meta charset=utf-8" />
 		<style>
 		h2 {color:pink;}
 		</style>
