@@ -1,13 +1,1 @@
 
-	<head>
-		<title> 건우야아아앙  </title>
-		<style>
-		h2 {color:pink;}
-		</style>
-	</head>
-	<body>
-	<h1>거누링 안녕 ㅎ.ㅎ</h1>
-	<h2>사랑해 ㅋ</h2>
-	<h3>2024.05.13</h3>
-	</body>
-</html>	
